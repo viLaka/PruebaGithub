@@ -5,4 +5,6 @@
 * lista
 * otro elemento
 
-*negrita*
+*cursiva*
+
+**negrita**
